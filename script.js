@@ -2,7 +2,12 @@ const app=({
     data(){
         return {
             text:'<a href ="">Hello Vue!</a>',
-            link: 'https://google.co.jp/'
+            link: 'https://google.co.jp/',
+            userInput: 'aa',
+            isActive: true,
+            isLarge: true,
+            activeColor: 'red',
+            fontSize: 16
         }
     },
 
