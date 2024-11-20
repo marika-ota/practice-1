@@ -1,0 +1,8 @@
+.active {
+    background-color: violet;
+    color: white;
+  }
+
+.text-large {
+    font-size: 40px;
+  }
